@@ -1,10 +1,16 @@
 _repo: Bees_48547
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48547-h/images/cover.jpg
 creator:
   author:
     agent_name: Phillips, E. F.
     gutenberg_agent_id: '44850'
     url: http://www.gutenberg.org/2009/agents/44850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48547#Bees
 gutenberg_issued: '2015-03-21'
 gutenberg_type: Text
 identifiers:
